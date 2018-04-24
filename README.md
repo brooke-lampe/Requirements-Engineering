@@ -14,16 +14,10 @@
 
 **Links to access Requirements Engineering materials through Microsoft Office online:**
 
-Requirements Engineering presentation
+Requirements Engineering presentation - https://1drv.ms/p/s!Atmj7qHpY6lmoDPFZ-S7Vx7M_XF4
 
-https://1drv.ms/p/s!Atmj7qHpY6lmoDPFZ-S7Vx7M_XF4
+Requirements Derivation practice problems - https://1drv.ms/w/s!Atmj7qHpY6lmoFARtawF6iUFybGt
 
-Requirements Derivation practice problems
-
-https://1drv.ms/w/s!Atmj7qHpY6lmoFARtawF6iUFybGt
-
-Requirements Inconsistency and Incompleteness practice problems
-
-https://1drv.ms/w/s!Atmj7qHpY6lmoFOGcPKS0TQrLWLy
+Requirements Inconsistency and Incompleteness practice problems - https://1drv.ms/w/s!Atmj7qHpY6lmoFOGcPKS0TQrLWLy
 
 #### Happy studies!
